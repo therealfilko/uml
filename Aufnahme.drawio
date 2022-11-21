@@ -1,56 +1,56 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T12:37:52.513Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="o57pgfmyi-4EZhK10D_7" version="20.5.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-11-21T12:43:11.006Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="eAWPHEmW1Phkhu6qsReJ" version="20.5.3" type="github">
   <diagram id="ceIqSiCKN5g5D9J3uBrV" name="Seite-1">
     <mxGraphModel dx="1186" dy="-402" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="LKf0_QzgHsAnqF3-CHD4-2" value="" style="ellipse;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="120" y="1350" width="40" height="40" as="geometry" />
+          <mxGeometry x="120" y="1380" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LKf0_QzgHsAnqF3-CHD4-4" value="Artikel suchen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1430" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="1440" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LKf0_QzgHsAnqF3-CHD4-8" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=#1ba1e2;fontColor=#ffffff;strokeColor=#006EAF;" vertex="1" parent="1">
-          <mxGeometry x="50" y="1330" width="55" height="55" as="geometry" />
+          <mxGeometry x="50" y="1380" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LKf0_QzgHsAnqF3-CHD4-10" value="Artikel ansehen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1430" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="LKf0_QzgHsAnqF3-CHD4-12" value="In Warenkorb&lt;br&gt;hinzufügen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1754" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1440" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LKf0_QzgHsAnqF3-CHD4-14" value="Warenkorb&lt;br&gt;öffnen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1830" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="1790" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LKf0_QzgHsAnqF3-CHD4-16" value="Bestellung&lt;br&gt;bestätigen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1590" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="1580" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LKf0_QzgHsAnqF3-CHD4-18" value="Bezahlen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1590" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1580" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LKf0_QzgHsAnqF3-CHD4-20" value="Bestellstatus&lt;br&gt;überprüfen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1510" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="1510" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LKf0_QzgHsAnqF3-CHD4-22" value="Bestellung&lt;br&gt;empfangen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1510" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1510" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LKf0_QzgHsAnqF3-CHD4-23" value="" style="ellipse;html=1;shape=endState;fillColor=strokeColor;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1350" width="40" height="40" as="geometry" />
+          <mxGeometry x="180" y="1380" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="LKf0_QzgHsAnqF3-CHD4-25" value="Kasse&lt;br&gt;öffnen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1670" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="1650" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LKf0_QzgHsAnqF3-CHD4-30" value="Warenkorb&lt;br&gt;ansehen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="40" y="1750" width="120" height="60" as="geometry" />
+          <mxGeometry x="40" y="1722" width="100" height="50" as="geometry" />
         </mxCell>
         <mxCell id="LKf0_QzgHsAnqF3-CHD4-32" value="Warenkorb&lt;br&gt;bearbeiten" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1670" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="1650" width="100" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="LKf0_QzgHsAnqF3-CHD4-35" value="Benutzer ist registriert&lt;br&gt;und angemeldet" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=18;verticalAlign=top;align=center;" vertex="1" parent="1">
-          <mxGeometry x="180" y="1830" width="130" height="70" as="geometry" />
+        <mxCell id="LKf0_QzgHsAnqF3-CHD4-35" value="Benutzer ist registriert&lt;br&gt;und angemeldet" style="shape=note2;boundedLbl=1;whiteSpace=wrap;html=1;size=18;verticalAlign=top;align=center;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1790" width="130" height="70" as="geometry" />
         </mxCell>
         <mxCell id="LKf0_QzgHsAnqF3-CHD4-37" value="" style="html=1;points=[];perimeter=orthogonalPerimeter;fillColor=strokeColor;rotation=90;" vertex="1" parent="1">
-          <mxGeometry x="160" y="1280" width="5" height="80" as="geometry" />
+          <mxGeometry x="170" y="1320" width="5" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="LKf0_QzgHsAnqF3-CHD4-41" value="In Warenkorb&lt;br&gt;hinzufügen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="160" y="1722" width="100" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
