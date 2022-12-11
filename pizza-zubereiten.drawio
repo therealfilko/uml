@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-11T19:50:40.627Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="wsBhg1vqqljt1QoNzrz6" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-11T19:50:56.705Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="XF1QgZfQ_upwYhXQ_pAG" version="20.6.0" type="github">
   <diagram id="elTP-fJpJgYU2NuokBk9" name="Seite-1">
     <mxGraphModel dx="1318" dy="888" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -114,7 +114,7 @@
         <mxCell id="zwGQ5tGkX95y164R6h5Z-20" value="Pizza in Ofen schieben" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="281.5" y="870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="zwGQ5tGkX95y164R6h5Z-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zwGQ5tGkX95y164R6h5Z-25" target="zwGQ5tGkX95y164R6h5Z-61">
+        <mxCell id="zwGQ5tGkX95y164R6h5Z-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=open;endFill=0;" edge="1" parent="1" source="zwGQ5tGkX95y164R6h5Z-25" target="zwGQ5tGkX95y164R6h5Z-61">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zwGQ5tGkX95y164R6h5Z-25" value="5 Minuten&lt;br&gt;backen" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
